@@ -1,0 +1,5 @@
+init_config:
+
+instances:
+    - uwsgi_url: '127.0.0.1'
+      uwsgi_port: 1717
